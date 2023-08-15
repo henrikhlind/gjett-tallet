@@ -1,3 +1,3 @@
 # gjett-tallet
  
-🔗 Link: https://www.henrikl.me/gjett-tallet
+🔗 Link: https://henrikhlind.github.io/gjett-tallet/
